@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.content {
+    height: 100%;
+    font-size: 0.75em;
+    text-align: center;
+    margin:auto;
+    padding-top: 5em;
+}
+
+button {
+    margin-top: 5em;
+    padding: 1em;
+    background-color: rgba(0, 0, 0, 0.25);
+    border-radius: 0.5em;
+}
+
+.black {
+    color: black;
+}
+
+.white {
+    color: white;
+}
